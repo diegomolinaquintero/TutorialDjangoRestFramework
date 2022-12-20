@@ -1,0 +1,4 @@
+# TutorialDjangoRestFramework
+Instalar requirements
+correr migrations
+runserver
